@@ -1,0 +1,19 @@
+.badge {
+  width: auto;
+  padding: 0.4rem;
+  margin-right: 1rem;
+  color: white;
+  background-color: #6c757d;
+  border-radius: 5px;
+  font-size: 14px;
+  display: inline-block;
+  font-weight: 600;
+}
+
+.badge-increased {
+  background-color: #188754;
+}
+
+.badge-decreased {
+  background-color: #dc3545;
+}
